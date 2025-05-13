@@ -21,8 +21,8 @@ sequenceDiagram
 
 email을 주제로 하였습니다.
 
-user1~5까지 임시 ID가 있으며
-각 비밀번호호는 pass1~5입니다. (user1 - pass1)
+user1에서 5까지 임시 ID가 있으며
+각 비밀번호는 pass1에서 5까지 입니다. (user1 - pass1)
 
 auth_service.py 에서는 사용자의 ID와 password저장되어 있으며 검증만을 담당하는 코드입니다.
 응집도는 사용자 인증 기능만을 수행하기에 응집도가 높다고 생각합니다.(기능적 응집)
