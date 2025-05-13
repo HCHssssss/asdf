@@ -21,6 +21,8 @@ sequenceDiagram
 
 email을 주제로 하였습니다.
 
+main.py를 실행하면 됩니다.
+
 user1에서 5까지 임시 ID가 있으며
 각 비밀번호는 pass1에서 5까지 입니다. (user1 - pass1)
 
